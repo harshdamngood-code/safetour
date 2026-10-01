@@ -1,0 +1,6 @@
+{
+  "name": "BillFlow",
+  "description": "Multi-tenant Indian business billing, inventory, GST accounting, and business management SaaS application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
